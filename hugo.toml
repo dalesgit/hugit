@@ -22,6 +22,10 @@ pluralizelisttitles = false
 # Define the number of posts per page
 [pagination]
     pagerSize = 10
+    
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 # Main menu
 [menu]
