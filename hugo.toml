@@ -457,10 +457,10 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "The Rev. Dale C. Hathaway"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo = "img/dch-mps.png"
+    logo_small = "img/dch-mps-scale.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Dale Hathaway</strong>
         <br>13/25 New Avenue
