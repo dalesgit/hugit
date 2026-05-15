@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Dales Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 16:27:44 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/hugit/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Words</title>
+      <link>http://localhost:1313/hugit/tags/words/</link>
+      <pubDate>Fri, 15 May 2026 16:27:44 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/tags/words/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Golang</title>
       <link>http://localhost:1313/hugit/tags/golang/</link>
