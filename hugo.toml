@@ -162,11 +162,13 @@ pluralizelisttitles = false
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
+    enableGoogleMaps = false
+    # the api is not good for dhath12
     googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
 
-    latitude = "-12.043333"
-    longitude =  "-77.028333"
+    # for Palm Harbor
+    latitude = "28.0781"
+    longitude =  "-82.7637"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "turquoise"
@@ -276,7 +278,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
