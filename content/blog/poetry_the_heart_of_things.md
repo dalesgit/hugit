@@ -1,7 +1,7 @@
 +++
 title = 'Poetry the Heart of things'
 date = 2026-05-16T05:52:37-04:00
-draft = "true"
+draft = "false"
 tags = ["poetry"]
 categories = ["Conversation"]
 banner = "img/dch-mps.png"
