@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/hugit/authors/</loc>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugit/blog/</loc>
-    <lastmod>2026-05-15T16:27:44-04:00</lastmod>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/categories/</loc>
-    <lastmod>2026-05-15T16:27:44-04:00</lastmod>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/categories/conversation/</loc>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/authors/dale/</loc>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/</loc>
-    <lastmod>2026-05-15T16:27:44-04:00</lastmod>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</loc>
-    <lastmod>2026-05-15T16:27:44-04:00</lastmod>
+    <loc>http://localhost:1313/hugit/tags/poetry/</loc>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2026/05/16/poetry-the-heart-of-things/</loc>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/tags/</loc>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</loc>
     <lastmod>2026-05-15T16:27:44-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/categories/thought/</loc>
@@ -22,9 +37,6 @@
   </url><url>
     <loc>http://localhost:1313/hugit/tags/words/</loc>
     <lastmod>2026-05-15T16:27:44-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugit/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/blog/2021/08/01/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>

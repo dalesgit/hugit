@@ -6,5 +6,4 @@ tags = [""]
 categories = ["","",""]
 banner = "img/banners/banner-4.jpg"
 authors = [""]
-  
 +++

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conversation on Dales Blog Site</title>
+    <link>http://localhost:1313/hugit/categories/conversation/</link>
+    <description>Recent content in Conversation on Dales Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2026 05:52:37 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugit/categories/conversation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poetry the Heart of things</title>
+      <link>http://localhost:1313/hugit/blog/2026/05/16/poetry-the-heart-of-things/</link>
+      <pubDate>Sat, 16 May 2026 05:52:37 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/05/16/poetry-the-heart-of-things/</guid>
+      <description>Yesterday a small group of us met in the church library. The intent of the group is to meet on a regular basis and to read poetry together after the model of lectio divina. This is a practice that is very old and aims to listen to a text, closely and over several repetitions, paying attention to a circle of voices ranging from the words in front of us, the godly voice of the universe, and the voice of our conscience sending us into action or metanoia.</description>
+    </item>
+  </channel>
+</rss>
