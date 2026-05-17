@@ -315,7 +315,7 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = true
     title = "From this blog"
-    logo = "img/dch-mps.png"
+    icon = "img/dch-mps.png"
     subtitle = "Here are some of the things I've been thinking about."
     hide_summary = false
 
