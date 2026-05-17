@@ -36,6 +36,27 @@ pluralizelisttitles = false
     weight     = 1
 
 
+[[menu.main]]
+    name       = "Features"
+    identifier = "menu.features"
+    url        = "/img/template-easy-customize.png"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Docs"
+    identifier = "section.docs"
+    url        = "/docs/"
+    weight     = 1
+    parent     = "menu.features"
+    post       = 1
+
+[[menu.main]]
+    name       = "Docs Overview"
+    url        = "/docs/"
+    weight     = 1
+    parent     = "section.docs"
+
+
 
 [[menu.main]]
     name       = "All Pages"

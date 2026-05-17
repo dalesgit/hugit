@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Dales Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 05:52:37 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/hugit/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conversation</title>
+      <link>http://localhost:1313/hugit/categories/conversation/</link>
+      <pubDate>Sat, 16 May 2026 05:52:37 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/categories/conversation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thought</title>
+      <link>http://localhost:1313/hugit/categories/thought/</link>
+      <pubDate>Fri, 15 May 2026 16:27:44 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/categories/thought/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Lorem</title>
       <link>http://localhost:1313/hugit/categories/lorem/</link>

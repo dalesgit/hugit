@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thought on Dales Blog Site</title>
+    <link>http://localhost:1313/hugit/categories/thought/</link>
+    <description>Recent content in Thought on Dales Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2026 16:27:44 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugit/categories/thought/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dales Post</title>
+      <link>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</link>
+      <pubDate>Fri, 15 May 2026 16:27:44 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

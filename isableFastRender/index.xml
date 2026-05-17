@@ -6,8 +6,22 @@
     <description>Recent content on Dales Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 05:52:37 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/hugit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poetry the Heart of things</title>
+      <link>http://localhost:1313/hugit/blog/2026/05/16/poetry-the-heart-of-things/</link>
+      <pubDate>Sat, 16 May 2026 05:52:37 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/05/16/poetry-the-heart-of-things/</guid>
+      <description>Yesterday a small group of us met in the church library. The intent of the group is to meet on a regular basis and to read poetry together after the model of lectio divina. This is a practice that is very old and aims to listen to a text, closely and over several repetitions, paying attention to a circle of voices ranging from the words in front of us, the godly voice of the universe, and the voice of our conscience sending us into action or metanoia.</description>
+    </item>
+    <item>
+      <title>Dales Post</title>
+      <link>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</link>
+      <pubDate>Fri, 15 May 2026 16:27:44 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Categories Post</title>
       <link>http://localhost:1313/hugit/blog/2021/08/01/categories-post/</link>
@@ -30,10 +44,24 @@
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
     </item>
     <item>
+      <title>Go is for lovers</title>
+      <link>http://localhost:1313/hugit/docs/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/docs/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
+    </item>
+    <item>
       <title>Hugo is for lovers</title>
       <link>http://localhost:1313/hugit/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       <guid>http://localhost:1313/hugit/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugit/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>http://localhost:1313/hugit/docs/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/docs/hugo-is-for-lovers/</guid>
       <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugit/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     <item>

@@ -6,8 +6,15 @@
     <description>Recent content in Authors on Dales Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 05:52:37 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/hugit/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dale</title>
+      <link>http://localhost:1313/hugit/authors/dale/</link>
+      <pubDate>Sat, 16 May 2026 05:52:37 -0400</pubDate>
+      <guid>http://localhost:1313/hugit/authors/dale/</guid>
+      <description></description>
+    </item>
     <item>
       <title>John Doe</title>
       <link>http://localhost:1313/hugit/authors/john-doe/</link>
