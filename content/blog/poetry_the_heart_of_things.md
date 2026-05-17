@@ -4,7 +4,7 @@ date = 2026-05-16T05:52:37-04:00
 draft = "false"
 tags = ["poetry"]
 categories = ["Conversation"]
-banner = "img/dch-mps.png"
+banner = "img/banners/banner-3.jpg"
 authors = ["Dale"]  
 +++
 

@@ -38,6 +38,24 @@
     <loc>http://localhost:1313/hugit/tags/words/</loc>
     <lastmod>2026-05-15T16:27:44-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugit/blog/2026/03/18/embarrasement/</loc>
+    <lastmod>2026-03-18T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/categories/starting/</loc>
+    <lastmod>2026-03-18T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/tags/theme/</loc>
+    <lastmod>2026-03-18T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/tags/poem/</loc>
+    <lastmod>2026-03-15T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2026/03/15/poem/</loc>
+    <lastmod>2026-03-15T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/categories/writing/</loc>
+    <lastmod>2026-03-15T13:50:46+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugit/blog/2021/08/01/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
@@ -62,14 +80,17 @@
     <loc>http://localhost:1313/hugit/categories/pseudo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugit/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://localhost:1313/hugit/tags/church/</loc>
+    <lastmod>2016-12-20T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugit/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://localhost:1313/hugit/categories/church/</loc>
+    <lastmod>2016-12-20T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugit/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://localhost:1313/hugit/tags/episcopal/</loc>
+    <lastmod>2016-12-20T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2016/12/20/episcopal-church-circa-2016/</loc>
+    <lastmod>2016-12-20T13:50:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/docs/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
@@ -77,14 +98,8 @@
     <loc>http://localhost:1313/hugit/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugit/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/hugit/docs/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugit/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/docs/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
@@ -92,15 +107,26 @@
     <loc>http://localhost:1313/hugit/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugit/categories/starting/</loc>
+    <loc>http://localhost:1313/hugit/authors/jane-doe/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/tags/ipsum/</loc>
+    <lastmod>2014-10-02T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2014/10/02/linked-post/</loc>
+    <lastmod>2014-10-02T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2014/10/02/migrate-from-jekyll/</loc>
+    <lastmod>2014-10-02T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2014/09/17/go-is-for-lovers/</loc>
+    <lastmod>2014-09-17T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/blog/2014/08/03/hugo-is-for-lovers/</loc>
+    <lastmod>2014-08-03T13:39:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/hugit/faq/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugit/tags/ipsum/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hugit/blog/1/01/01/migrate-from-jekyll/</loc>
   </url>
 </urlset>

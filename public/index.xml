@@ -20,28 +20,28 @@
       <link>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</link>
       <pubDate>Fri, 15 May 2026 16:27:44 -0400</pubDate>
       <guid>http://localhost:1313/hugit/blog/2026/05/15/dales-post/</guid>
-      <description></description>
+      <description>I can still so vividly remember the day in 1982, sitting in my office at Trinity Episcopal Church in Wauwatosa, WI. I felt a whirlwind of anxiety swirl around me at the thought that the rest of my life I would be making my living by the words that I spoke (or wrote).&#xA;I thought I am not up to the task I hadn&amp;rsquo;t done all that well to date, although some of the awards on paper sounded high fallutin&#39;.</description>
     </item>
     <item>
-      <title>Categories Post</title>
-      <link>http://localhost:1313/hugit/blog/2021/08/01/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/hugit/blog/2021/08/01/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:&#xA;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+      <title>Embarrasement</title>
+      <link>http://localhost:1313/hugit/blog/2026/03/18/embarrasement/</link>
+      <pubDate>Wed, 18 Mar 2026 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/03/18/embarrasement/</guid>
+      <description>Embarasement and Shame Quiet day of prayer. 9 o’clock in the morning the Miata didn’t turn over but then on about the third try there was a pop. One more try and it started. Temperature was 75 but presumably it had been rising all morning long so the temperature is clearly a factor.&#xA;The point of the blogs for me was to find my voice. To counteract my sense of marching to somebody else’s drums.</description>
     </item>
     <item>
-      <title>Linked post</title>
-      <link>http://localhost:1313/hugit/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>http://localhost:1313/hugit/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&#xA;menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <title>Poem</title>
+      <link>http://localhost:1313/hugit/blog/2026/03/15/poem/</link>
+      <pubDate>Sun, 15 Mar 2026 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/03/15/poem/</guid>
+      <description>Poem for today A day that allowed for roaming and circling&#xA;While the prayer group took aim at a labyrinth.&#xA;Thin places, they speak to me,&#xA;My significant space, what previously I might have called Spirit, opens up like a lily bud&#xA;turning toward its prime mover.&#xA;They said of him at the time for eulogies&#xA;That he had formed the habit of leaving a space,&#xA;a room, a clean-up effort, or the tidying of the evening colloquy,</description>
     </item>
     <item>
-      <title>Go is for lovers</title>
-      <link>http://localhost:1313/hugit/blog/2015/09/17/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/hugit/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
+      <title>Episcopal Church circa 2016</title>
+      <link>http://localhost:1313/hugit/blog/2016/12/20/episcopal-church-circa-2016/</link>
+      <pubDate>Tue, 20 Dec 2016 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2016/12/20/episcopal-church-circa-2016/</guid>
+      <description>The Episcopal Church circa 2016 TOC {:toc} The setting: a call to double the size of a shrinking Episcopal Church I am grateful and inspired by The Rev. Tom Buechele’s recent email, shared with the retired clergy of the diocese of Hawai’i. In it he took note of the seemingly extreme demand for supply clergy in remote congregations. He had received requests from as far away as Mexico. He wondered about the health of the church where so many Episcopalians were not able to get the sacraments on a Sunday morning.</description>
     </item>
     <item>
       <title>Go is for lovers</title>
@@ -49,13 +49,6 @@
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       <guid>http://localhost:1313/hugit/docs/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
-    </item>
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>http://localhost:1313/hugit/blog/2015/08/03/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/hugit/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugit/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     <item>
       <title>Hugo is for lovers</title>
@@ -72,6 +65,41 @@
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     <item>
+      <title>Linked post</title>
+      <link>http://localhost:1313/hugit/blog/2014/10/02/linked-post/</link>
+      <pubDate>Thu, 02 Oct 2014 21:49:20 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2014/10/02/linked-post/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&#xA;menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>http://localhost:1313/hugit/blog/2014/10/02/migrate-from-jekyll/</link>
+      <pubDate>Thu, 02 Oct 2014 21:49:20 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2014/10/02/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    <item>
+      <title>Go is for lovers</title>
+      <link>http://localhost:1313/hugit/blog/2014/09/17/go-is-for-lovers/</link>
+      <pubDate>Wed, 17 Sep 2014 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2014/09/17/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.&#xA;This document is a brief primer on using go templates.</description>
+    </item>
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>http://localhost:1313/hugit/blog/2014/08/03/hugo-is-for-lovers/</link>
+      <pubDate>Sun, 03 Aug 2014 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2014/08/03/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugit/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Categories Post</title>
+      <link>http://localhost:1313/hugit/blog/2014/08/01/categories-post/</link>
+      <pubDate>Fri, 01 Aug 2014 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2014/08/01/categories-post/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:&#xA;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+    </item>
+    <item>
       <title>Contact</title>
       <link>http://localhost:1313/hugit/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -84,13 +112,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugit/faq/</guid>
       <description>Brief information about this site My goal in this site is to provide for a simple blog. Some practical points:&#xA;The posts have &amp;ldquo;categories&amp;rdquo; and &amp;ldquo;tags&amp;rdquo; for filtering. I have not yet been able to get the &amp;ldquo;features/docs&amp;rdquo; to work. You can email me messages in the &amp;ldquo;contact&amp;rdquo; page. You can comment on individual posts. </description>
-    </item>
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>http://localhost:1313/hugit/blog/1/01/01/migrate-from-jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugit/blog/1/01/01/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
   </channel>
 </rss>

@@ -23,6 +23,20 @@
       <description></description>
     </item>
     <item>
+      <title>Theme</title>
+      <link>http://localhost:1313/hugit/tags/theme/</link>
+      <pubDate>Wed, 18 Mar 2026 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/tags/theme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poem</title>
+      <link>http://localhost:1313/hugit/tags/poem/</link>
+      <pubDate>Sun, 15 Mar 2026 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/tags/poem/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Golang</title>
       <link>http://localhost:1313/hugit/tags/golang/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
@@ -44,10 +58,17 @@
       <description></description>
     </item>
     <item>
-      <title>Theme</title>
-      <link>http://localhost:1313/hugit/tags/theme/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/hugit/tags/theme/</guid>
+      <title>Church</title>
+      <link>http://localhost:1313/hugit/tags/church/</link>
+      <pubDate>Tue, 20 Dec 2016 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/tags/church/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Episcopal</title>
+      <link>http://localhost:1313/hugit/tags/episcopal/</link>
+      <pubDate>Tue, 20 Dec 2016 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/tags/episcopal/</guid>
       <description></description>
     </item>
     <item>
@@ -60,7 +81,7 @@
     <item>
       <title>Ipsum</title>
       <link>http://localhost:1313/hugit/tags/ipsum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Oct 2014 21:49:20 +0200</pubDate>
       <guid>http://localhost:1313/hugit/tags/ipsum/</guid>
       <description></description>
     </item>

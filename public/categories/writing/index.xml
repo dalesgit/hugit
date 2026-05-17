@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Dales Blog Site</title>
+    <link>http://localhost:1313/hugit/categories/writing/</link>
+    <description>Recent content in Writing on Dales Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Mar 2026 13:50:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugit/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poem</title>
+      <link>http://localhost:1313/hugit/blog/2026/03/15/poem/</link>
+      <pubDate>Sun, 15 Mar 2026 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/03/15/poem/</guid>
+      <description>Poem for today A day that allowed for roaming and circling&#xA;While the prayer group took aim at a labyrinth.&#xA;Thin places, they speak to me,&#xA;My significant space, what previously I might have called Spirit, opens up like a lily bud&#xA;turning toward its prime mover.&#xA;They said of him at the time for eulogies&#xA;That he had formed the habit of leaving a space,&#xA;a room, a clean-up effort, or the tidying of the evening colloquy,</description>
+    </item>
+  </channel>
+</rss>

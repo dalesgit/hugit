@@ -1,0 +1,24 @@
++++
+title = "Poem"
+date = "2026-03-15T13:50:46+02:00"
+tags = ["poem"]
+categories = ["writing"]
+description = "thin places"
+banner = "img/banners/banner-1.jpg"
+authors = ["Dale"]
++++
+
+# Poem for today
+
+A day that allowed for roaming and circling\
+While the prayer group took aim at a labyrinth.\
+Thin places, they speak to me,\
+My significant space, what previously I might have called \
+Spirit, opens up like a lily bud\
+turning toward its prime mover.
+
+They said of him at the time for eulogies\
+That he had formed the habit of leaving a space,\
+a room, a clean-up effort, or the tidying of the evening colloquy,\
+cleaner and more ordered than he found.\
+Whatever the ownership. Imagine that.

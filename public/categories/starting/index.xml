@@ -6,8 +6,15 @@
     <description>Recent content in Starting on Dales Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:50:46 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/hugit/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embarrasement</title>
+      <link>http://localhost:1313/hugit/blog/2026/03/18/embarrasement/</link>
+      <pubDate>Wed, 18 Mar 2026 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2026/03/18/embarrasement/</guid>
+      <description>Embarasement and Shame Quiet day of prayer. 9 o’clock in the morning the Miata didn’t turn over but then on about the third try there was a pop. One more try and it started. Temperature was 75 but presumably it had been rising all morning long so the temperature is clearly a factor.&#xA;The point of the blogs for me was to find my voice. To counteract my sense of marching to somebody else’s drums.</description>
+    </item>
     <item>
       <title>Creating a new theme</title>
       <link>http://localhost:1313/hugit/blog/2015/06/24/creating-a-new-theme/</link>

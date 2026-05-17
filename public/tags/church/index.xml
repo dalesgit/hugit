@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Church on Dales Blog Site</title>
+    <link>http://localhost:1313/hugit/tags/church/</link>
+    <description>Recent content in Church on Dales Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2016 13:50:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugit/tags/church/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episcopal Church circa 2016</title>
+      <link>http://localhost:1313/hugit/blog/2016/12/20/episcopal-church-circa-2016/</link>
+      <pubDate>Tue, 20 Dec 2016 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/hugit/blog/2016/12/20/episcopal-church-circa-2016/</guid>
+      <description>The Episcopal Church circa 2016 TOC {:toc} The setting: a call to double the size of a shrinking Episcopal Church I am grateful and inspired by The Rev. Tom Buechele’s recent email, shared with the retired clergy of the diocese of Hawai’i. In it he took note of the seemingly extreme demand for supply clergy in remote congregations. He had received requests from as far away as Mexico. He wondered about the health of the church where so many Episcopalians were not able to get the sacraments on a Sunday morning.</description>
+    </item>
+  </channel>
+</rss>
