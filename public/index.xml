@@ -83,7 +83,7 @@
       <link>http://localhost:1313/hugit/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugit/faq/</guid>
-      <description>I have tried to get a fairly simple web-site going with access to blog posts. The posts have &amp;ldquo;categories&amp;rdquo; and &amp;ldquo;tags&amp;rdquo; for filtering.&#xA;I have not yet been able to get the features/docs to list extra pages. You can email me messages in the &amp;ldquo;contact&amp;rdquo; page. You can comment on individual posts. </description>
+      <description>Brief information about this site My goal in this site is to provide for a simple blog. Some practical points:&#xA;The posts have &amp;ldquo;categories&amp;rdquo; and &amp;ldquo;tags&amp;rdquo; for filtering. I have not yet been able to get the &amp;ldquo;features/docs&amp;rdquo; to work. You can email me messages in the &amp;ldquo;contact&amp;rdquo; page. You can comment on individual posts. </description>
     </item>
     <item>
       <title>Migrate from Jekyll</title>

@@ -17,7 +17,7 @@ pluralizelisttitles = false
         shortname = "devcows"
     # Enable Google Analytics by entering your tracking code
     [services.googleAnalytics]
-        id = ""
+        id = "" 
 
 # Define the number of posts per page
 [pagination]
@@ -137,7 +137,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:+12 34 567 89 01"
+    url = "tel:+01 808 780 2573"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
@@ -152,11 +152,6 @@ pluralizelisttitles = false
     url = "https://facebook.com"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
-[[menu.topbar]]
-    weight = 4
-    name = "X"
-    url = "https://x.com"
-    pre = "<i class='fab fa-2x fa-x-twitter'></i>"
 
 [[menu.topbar]]
     weight = 5
