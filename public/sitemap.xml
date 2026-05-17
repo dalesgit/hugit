@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugit/</loc>
-    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/hugit/authors/</loc>
     <lastmod>2026-05-16T05:52:37-04:00</lastmod>
   </url><url>
@@ -18,6 +15,9 @@
     <lastmod>2026-05-16T05:52:37-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/authors/dale/</loc>
+    <lastmod>2026-05-16T05:52:37-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugit/</loc>
     <lastmod>2026-05-16T05:52:37-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugit/tags/poetry/</loc>

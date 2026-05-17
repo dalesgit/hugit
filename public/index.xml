@@ -83,7 +83,7 @@
       <link>http://localhost:1313/hugit/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugit/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&#xA;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <description>I have tried to get a fairly simple web-site going with access to blog posts. The posts have &amp;ldquo;categories&amp;rdquo; and &amp;ldquo;tags&amp;rdquo; for filtering.&#xA;I have not yet been able to get the features/docs to list extra pages. You can email me messages in the &amp;ldquo;contact&amp;rdquo; page. You can comment on individual posts. </description>
     </item>
     <item>
       <title>Migrate from Jekyll</title>

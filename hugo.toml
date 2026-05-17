@@ -44,17 +44,11 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Docs"
-    identifier = "section.docs"
+    identifier = "menu.docs"
     url        = "/docs/"
     weight     = 1
     parent     = "menu.features"
     post       = 1
-
-[[menu.main]]
-    name       = "Docs Overview"
-    url        = "/docs/"
-    weight     = 1
-    parent     = "section.docs"
 
 
 
@@ -84,7 +78,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "User Pages"
     identifier = "section.ap-userpages"
-    url        = ""
+    url        = "/docs/"
     weight     = 2
     parent     = "menu.allpages"
     post       = 2
@@ -92,7 +86,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Contact"
     identifier = "section.ap-contact"
-    url        = ""
+    url        = "/docs/"
     weight     = 1
     parent     = "menu.allpages"
     post       = 4
@@ -100,7 +94,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Pages"
     identifier = "section.ap-pages"
-    url        = ""
+    url        = "/docs/"
     weight     = 2
     parent     = "menu.allpages"
     post       = 4
@@ -254,6 +248,7 @@ pluralizelisttitles = false
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:title/"
+   
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -324,7 +319,8 @@ pluralizelisttitles = false
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "From this blog"
+    logo = "img/dch-mps.png"
     subtitle = "Here are some of the things I've been thinking about."
     hide_summary = false
 
