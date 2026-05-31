@@ -7,10 +7,9 @@ categories = ["preaching"]
 banner = "img/hymns-trinity-sunday.png"
 authors = ["Dale Hathaway"]
 +++
+
 ---
-title: Trinity Sermon rev. 2
-date: May 31, 2026
-author: Dale Hathaway
+
 ---
 
 ## **Buyer Beware**
